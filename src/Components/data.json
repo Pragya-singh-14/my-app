@@ -1,0 +1,77 @@
+[
+    {
+
+    "location":"Kolkata",
+    "code":1,
+    "doctors":[
+        {
+        "id":"1",
+        "name":"Jain"
+    },
+    {
+        "id":"12",
+        "name":"Akash"
+    },
+    {
+        "id":"13",
+        "name":"MR. A"
+    },
+    {
+        "id":"14",
+        "name":"DR Manju"
+    }
+
+]
+},
+{
+
+    "location":"Bangalore",
+    "code":2,
+    "doctors":[
+        {
+        "id":"29",
+        "name":"BangaloreDoc1"
+    },
+    {
+        "id":"35",
+        "name":"BangaloreDoc2"
+    },
+    {
+        "id":"47",
+        "name":"BangaloreDoc3"
+    },
+    {
+        "id":"58",
+        "name":"BangaloreDoc4"
+    }
+
+]
+},
+
+{
+    "location":"Mumbai",
+    "code":3,
+"doctors":[
+    {
+    "id":"24",
+    "name":"MumbaiDoc1"
+},
+{
+    "id":"35",
+    "name":"MumbaiDoc2"
+},
+{
+    "id":"45",
+    "name":"MumbaiDoc3"
+},
+{
+    "id":"55",
+    "name":"MumbaiDoc4"
+}
+
+]
+}
+
+
+
+]
